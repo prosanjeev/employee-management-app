@@ -2,6 +2,11 @@
 
 This web application allows administrators to efficiently manage employee data. It provides CRUD (Create, Read, Update, Delete) operations for managing employee information and photos. The app ensures secure authentication for admin access and offers streamlined data management.
 
+## username: sanjeev
+## password: sanjeev123
+
+https://github.com/prosanjeev/employee-admin-panel-frontend/assets/154009697/59bb69df-65a1-4a31-bdca-3ca922454875
+
 ## Technologies Used
 
 - React
@@ -25,17 +30,26 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/prosanjeev/employee-management-app.git
 
-2. Install dependencies:
+2. Navigate to the frontend directory:
 
    ```bash
-   cd employee-management-app
+   cd employee-management-app/frontend
    npm install
-3. Start the server:
 
-   ```bash
-   npm start
+3. Navigate to the backend directory:
 
-4. Open your browser and navigate to http://localhost:3000 to view the app.
+    ```bash
+    cd ../backend
+    npm install
+
+4. Start the frontend and backend servers:
+    ```bash
+    # In the frontend directory
+    npm start
+     # In the backend directory
+    npm run dev
+
+5. Open your browser and navigate to http://localhost:3000 to view the app.
 
 ## Usage
 
@@ -49,4 +63,15 @@ To run this project locally, follow these steps:
 ## License
 This project is licensed under the MIT License.
 
+---
+
+Feel free to use this template and modify it as per your project's requirements. If you have any questions or need further assistance, please don't hesitate to ask.
+
+## Contact
+For any queries or suggestions, please reach out to:
+- **Name**: Sanjeev Kumar
+- **Email**: sanjeevcse2k23@gmail.com
+- **LinkedIn**: [Sanjeev Kumar](https://linkedin.com/in/prosanjeev)
+
+---
 
